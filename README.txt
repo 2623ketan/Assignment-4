@@ -80,4 +80,4 @@ SUBMISSION
 - README.txt -> instructions and requirement mapping
 - sources.txt -> official references
 
-After pushing to GitHub, replace the placeholder in githubA4.txt with your actual repository URL.
+
